@@ -1,0 +1,19 @@
+{
+  "name": "dio_btc_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sousa-p/dio_btc_wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sousa-p/dio_btc_wallet/issues"
+  },
+  "homepage": "https://github.com/sousa-p/dio_btc_wallet#readme"
+}
